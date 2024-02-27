@@ -28,7 +28,7 @@
 ### Source Code
 - [RelativeLayoutPage.xaml](Module03-Exercise01/Module03-Exercise01/RelativeLayoutPage.xaml)
 ### Output Screenshots
-![Relative Layout Page](Screenshots/NoBindingContext-1.png)
+![Relative Layout Page](Screenshots/RelativeLayoutPage.png)
 
 ## Grid Page Page
 ### Source Code
