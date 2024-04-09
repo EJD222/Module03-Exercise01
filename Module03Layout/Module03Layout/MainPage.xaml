@@ -24,7 +24,7 @@
                 Clicked="OnAbsoluteLayoutPageClicked" 
                 CornerRadius="8"
                 TextColor="White"
-                BackgroundColor="#D6C3FA"   />
+                BackgroundColor="#D6C3FA" />
         
         <Button Text="Relative Layout Page" 
                 Clicked="OnRelativeLayoutPageClicked" 
